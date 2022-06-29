@@ -1,14 +1,9 @@
 ---
-published: true
-
-Created: July 13, 2021 1:18 PM
-End time: July 13, 2021 5:16 PM
-Engineers: sreeram ambalam
-Status: Complete 🙌
-Tags: DSA, Leetcode
-Type: 100 days of code
-total time: 3 h
-
+layout: post
+title:  Tried Leetcode after Long time
+date:   2021-07-13 16:03:00 +0500
+image:  06.jpg
+tags:   DSA
 
 
 

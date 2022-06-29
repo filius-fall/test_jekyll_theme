@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  Tried Leetcode after Long time
+date:   2020-12-20 16:03:00 +0500
+image:  06.jpg
+tags:   General
 ---
 ## Some what productive day
 

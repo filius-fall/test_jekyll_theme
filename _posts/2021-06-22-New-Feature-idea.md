@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  New Feature Idea
+date:   2021-06-22 16:03:00 +0500
+image:  06.jpg
+tags:   General
 
 
 

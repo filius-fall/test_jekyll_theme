@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  100 Days of code
+date:   2021-07-15 16:03:00 +0500
+image:  06.jpg
+tags:   DSA
 
 ---
 

@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  New Project Idea
+date:   2021-06-21 16:03:00 +0500
+image:  06.jpg
+tags:   Idea
 
 
 ---

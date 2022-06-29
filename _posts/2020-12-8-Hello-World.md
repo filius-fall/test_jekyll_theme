@@ -1,7 +1,14 @@
 ---
 layout: post
 title: First Post
-published: true
+layout: post
+title:  Tried Leetcode after Long time
+date:   2020-12-20 16:03:00 +0500
+image:  06.jpg
+tags:   General
+date:   2020-12-8 16:03:00 +0500
+image:  06.jpg
+tags:   General
 ---
 
 ## Hey there readers.

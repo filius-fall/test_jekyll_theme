@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  Plans for Next 10 days
+date:   2021-05-29 16:03:00 +0500
+image:  06.jpg
+tags:   Plans
 
 ---
 

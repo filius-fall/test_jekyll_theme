@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  Tried Leetcode after Long time
+date:   2021=07-14 16:03:00 +0500
+image:  06.jpg
+tags:   DSA
 Difficulty: Easy
 End time: July 14, 2021 6:00 PM
 Engineer: sreeram ambalam

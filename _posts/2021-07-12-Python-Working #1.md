@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  Python Working #1
+date:   2021-07-12 16:03:00 +0500
+image:  06.jpg
+tags:   Explain
 
 
 

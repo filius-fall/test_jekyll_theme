@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  Things I Learned
+date:   2020-12-14 16:03:00 +0500
+image:  06.jpg
+tags:   TIL
 ---
 #### Not a productive day
 

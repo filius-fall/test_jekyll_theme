@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  Tommorow Goals
+date:   2020-12-20 16:03:00 +0500
+image:  06.jpg
+tags:   TIL
 ---
 
 1.Edit About page of your Jekll Blog.

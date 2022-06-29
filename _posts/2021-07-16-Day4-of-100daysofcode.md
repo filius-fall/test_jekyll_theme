@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  Tried Leetcode after Long time
+date:   2021-12-16 16:03:00 +0500
+image:  06.jpg
+tags:   DSA
 
 
 ---

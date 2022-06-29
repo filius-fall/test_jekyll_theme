@@ -1,5 +1,9 @@
 ---
-published:true
+layout: post
+title:  App buliding structure
+date:   2021-06-22 16:03:00 +0500
+image:  06.jpg
+tags:   Plans
 ---
 
 The below will be a rough idea of how I should build this app I mentioned in Previous posts

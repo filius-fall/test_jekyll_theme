@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  Highlights 27th May
+date:   2021-05-27 16:03:00 +0500
+image:  06.jpg
+tags:   Highlights
 
 ---
 
