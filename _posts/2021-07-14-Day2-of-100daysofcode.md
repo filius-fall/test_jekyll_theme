@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tried Leetcode after Long time
-date:   2021=07-14 16:03:00 +0500
+date:   2021-07-14 16:03:00 +0500
 image:  06.jpg
 tags:   DSA
 Difficulty: Easy
